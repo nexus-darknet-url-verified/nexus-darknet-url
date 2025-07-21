@@ -47,4 +47,6 @@ This guide is exclusively intended for educational purposes. The content provide
 
 
 
-Update:  18.07.2025 15:10 Resolved dead links in migration guide
+
+
+Update:  21 July 2025
