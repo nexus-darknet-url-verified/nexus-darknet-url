@@ -49,4 +49,6 @@ This guide is exclusively intended for educational purposes. The content provide
 
 
 
-Update:  21 July 2025
+
+
+Update:  07/24/2025 link is active and clickable
